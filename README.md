@@ -114,7 +114,8 @@ REG NO:212222110030
 </html>
 
 # OUPUT
-![Screenshot (92)](https://github.com/NaveenSivamalai/timetable/assets/123792574/246b6833-ffba-4c1b-bbe5-e38e0e21d1d9)
+![Screenshot (92)](https://github.com/NaveenSivamalai/timetable/assets/123792574/e53fd55d-ab9e-4057-93a9-6b8998fe39b9)
+
 
 #RESULT
 The program for creating slot time table is completed successfully
