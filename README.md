@@ -114,7 +114,8 @@ REG NO:212222110030
 </html>
 
 # OUPUT
-![Screenshot (92)](https://github.com/NaveenSivamalai/timetable/assets/123792574/e53fd55d-ab9e-4057-93a9-6b8998fe39b9)
+![7e4694bd-b0fb-467b-9e3a-b61757569dd1](https://github.com/NaveenSivamalai/timetable/assets/123792574/9299654f-b05d-467b-8292-d3a76e8fa331)
+
 
 
 #RESULT
